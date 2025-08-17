@@ -12,14 +12,14 @@ A simple React-based math quiz game where players answer 10 random addition and 
 ## 📂 Project Structure
 
 src/
-  ├── App.js # Main game logic and React components
-  ├── App.css # Styling for the game UI
-  ├── App.test.js # Basic React test file
-  ├── index.js # Entry point for the app
-  ├── index.css # Global styles
-  ├── logo.svg # React logo asset
-  ├── reportWebVitals.js # Performance measurement
-  └── setupTests.js # Jest & React Testing Library setup
+  - App.js # Main game logic and React components
+  - App.css # Styling for the game UI
+  - App.test.js # Basic React test file
+  - index.js # Entry point for the app
+  - index.css # Global styles
+  - logo.svg # React logo asset
+  - reportWebVitals.js # Performance measurement
+  - setupTests.js # Jest & React Testing Library setup
 
 
 ## 🛠️ Tech Stack
@@ -30,7 +30,7 @@ src/
 ## ▶️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brain-tuner-game.git
+   git clone https://github.com/jha-ameet/brain-tuner-game.git
    cd brain-tuner-game
 
 2. Install dependencies:
