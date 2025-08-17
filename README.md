@@ -31,6 +31,7 @@ src/
 1. Clone the repository:
    ```bash
    git clone https://github.com/jha-ameet/brain-tuner-game.git
+   npm init
    cd brain-tuner-game
 
 2. Install dependencies:
